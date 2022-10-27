@@ -1,0 +1,15 @@
+
+.jumbotron {
+  color: #6b4f03;
+  background-image: url("staphylococcus.jpg");
+  background-size: 100%  100%;
+  text-shadow: 2px 2px 2px #08070c2c;
+  text-align: center;
+}
+
+body {
+  font: small-caps 15px Verdana;
+  grid-gap: 10px;
+  background-color: #f77542
+
+}
